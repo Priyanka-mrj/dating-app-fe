@@ -15,16 +15,20 @@ Location-Based Suggestions
 
 # Installation
 To get started with DatingApp, follow these steps:
+
 1.Clone the repository:
 git clone git@github.com:Priyanka-mrj/dating-app-fe.git
+
 cd dating-app-fe-main
 
 2.Install dependencies:
+
 yarn install
 Set up the environment variables:
 Create a .env file in the root directory and add your environment variables. Refer to .env.example for required variables.
 
 3.Run the application:
+
 yarn start 
 yarn android or yarn ios
 
