@@ -37,11 +37,17 @@ yarn start
 yarn android or yarn ios
 
 # Usage
-Register: Create a new account by providing your email, password, and basic profile information.
-Login: Log in to your account using your registered email and password.
-Create Profile: Complete your profile by adding more details about yourself, including interests, photos, and a bio.
-Swipe: Browse through profiles of other users and swipe right to like or left to pass.
-Match: If two users like each other, a match is created, and they can start chatting.
-Message: Use the in-app messaging feature to chat with your matches.
+####  Register:
+Create a new account by providing your email, password, and basic profile information.
+#### Login: 
+Log in to your account using your registered email and password.
+#### Create Profile: 
+Complete your profile by adding more details about yourself, including interests, photos, and a bio.
+#### Swipe: 
+Browse through profiles of other users and swipe right to like or left to pass.
+#### Match: 
+If two users like each other, a match is created, and they can start chatting.
+#### Message: 
+Use the in-app messaging feature to chat with your matches.
 
 
