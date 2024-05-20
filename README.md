@@ -16,7 +16,7 @@ Location-Based Suggestions
 # Installation
 To get started with DatingApp, follow these steps:
 1.Clone the repository:
-git clone 
+git clone git@github.com:Priyanka-mrj/dating-app-fe.git
 cd dating-app-fe-main
 
 2.Install dependencies:
